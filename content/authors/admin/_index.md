@@ -18,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow - NYU, Siegel Research Fellow
+role: Postdoctoral Fellow - NYU and Siegel Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
