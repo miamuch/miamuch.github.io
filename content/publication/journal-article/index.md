@@ -15,7 +15,7 @@ publishDate: "2023-05-01"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review"
+publication: "*R&R at Social Science Research"
 publication_short: ""
 
 abstract: Class is a known determinant of political attitudes and behaviors, yet it is often overlooked in quantitative intersectional research due to challenges in operationalization. This oversight stems from two main issues, inconsistent definitions of class in survey instruments and sparse data. In this paper, we propose defining class as a context-dependent latent variable, estimated through mixture models. Traditional methods typically isolate a single socioeconomic status (SES) or subjective social status (SSS) measure as an independent variable, but mixture models integrate multiple facets of SES and SSS, identifying the component of class most pertinent the political outcome being studied. Coupled with intersectional approaches like Bayesian Multilevel Models, this framework allows for a more comprehensive representation of relevant identities in data sparse environments. We demonstrate our method with two empirical examples using 2020 American National Election Studies data, showing that the significance of SES or SSS elements varies depending on the outcome. Our results also indicate that not accounting for class in intersectional modeling leads to biased estimates. We recommend a more detailed approach such as mixture models to asses class alongside race and gender in quantitative analyses based on our findings.
