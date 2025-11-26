@@ -16,7 +16,7 @@ doi: ""
 
 publication_types: ["article-journal"]
 
-publication: "*Under Review"
+publication: "*R&R at Computational Communication Research"
 publication_short: ""
 
 abstract: >
