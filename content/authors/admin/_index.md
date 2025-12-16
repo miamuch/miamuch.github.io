@@ -111,6 +111,6 @@ skills:
 
 I am a postdoctoral fellow for NYU's Center for Social Media and Politics and a Siegel Research Fellow for the Siegel Family Endowment. I attained my PhD in Political Science from the University of California, Irvine in 2024. I was also a visiting Ph.D. student with the Alvarez Lab at California Insitutute of Technology. For CSMaP, I specialize in the intersection of political psychology, survey methodologies, and social media in the American context.
 
-In addition, I work on questions of identity politics and statistical methodologies to study intersectionality. I have also worked on questions of gender-based mobilization on social media during the #MeToo era and in the wake of Dobbs v. Jackson, as well as gender in podcasting relating to how it impacts politics.
+In addition, I work on questions of identity politics and statistical methodologies to study intersectionality. I have also worked on questions of gender-based mobilization on social media during the #MeToo era and in the wake of Dobbs v. Jackson, as well as gender, podcasting and politics.
 
 Outside of work, I’m a former collegiate soccer player, avid lifter, mountain biker, and Dungeons & Dragons enthusiast. I enjoy long talks about women's soccer and anything San Diego (my hometown). 
